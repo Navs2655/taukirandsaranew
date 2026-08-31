@@ -23,7 +23,7 @@ const EVENTS: EventDef[] = [
     summary: "Taukir & Sara's Nikah",
     description:
       "Nikah ceremony after Zuhr prayer. Join us in celebrating Taukir and Sara's Nikah.",
-    location: "Jumma Masjid, Junadeesa",
+    location: "Ameena Masjid, Junadeesa",
     startDate: "20261110",
     startTime: "133000",
     endTime: "153000",
@@ -33,7 +33,7 @@ const EVENTS: EventDef[] = [
     description: "Walima reception. Join us in celebrating Taukir and Sara.",
     location: "Junadeesa",
     startDate: "20261111",
-    startTime: "120000",
+    startTime: "110000",
     endTime: "150000",
   },
 ];

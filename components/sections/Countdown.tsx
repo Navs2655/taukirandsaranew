@@ -120,7 +120,7 @@ export default function Countdown() {
         transition={{ duration: 0.9, delay: 0.4 }}
         className="relative font-body text-champagne/40 text-sm tracking-wide mt-14"
       >
-        10th November 2026 · Jumma Masjid, Junadeesa
+        10th November 2026 · Ameena Masjid, Junadeesa
       </motion.p>
     </section>
   );

@@ -1,6 +1,7 @@
 /** @type {import('next').NextConfig} */
 
-const BASE_PATH = "/taukirandsaranew";
+/** const BASE_PATH = "/taukirandsaranew"; */
+ const BASE_PATH = "";
 
 const nextConfig = {
   reactStrictMode: true,
